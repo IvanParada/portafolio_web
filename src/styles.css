@@ -1,0 +1,14 @@
+html, body {
+    background-color: #131212;
+    color: white;
+    font-family: Quicksand;
+}
+
+.navbar-nav {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+  }
+
+
+
